@@ -1,1 +1,3 @@
 VulkanTest
+shaders/snow_shaders.vert.spv
+shaders/snow_shaders.frag.spv

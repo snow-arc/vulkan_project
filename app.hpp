@@ -1,6 +1,7 @@
 #pragma once
 
 #include "show_window.hpp"
+#include "lve_pipline.hpp"
 
 namespace snow
 {
@@ -12,5 +13,6 @@ namespace snow
 			void run();
 		private:
 			SnowWindow swindow{WIDTH, HEIGHT, "HeLLo Vulkan"};
+			snowPipline spip{"shaders/snow_shaders.vert.spv", "shaders/snow_shaders.frag.spv"};
 	};
 }
