@@ -1,2 +1,2 @@
 VulkanTest
-!shaders/*.spv
+shaders/*.spv
