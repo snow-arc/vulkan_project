@@ -1,0 +1,5 @@
+{
+	"glsl-linter.validatorPath": "/usr/bin/glslang",
+	"glsl-linter.fileExtensions": [],
+	"glsl-linter.validatorArgs": []
+}
